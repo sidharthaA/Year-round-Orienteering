@@ -1,0 +1,2 @@
+# Year-round-Orienteering
+In the sport (or "activity", depending on your level of fitness/competitiveness) of orienteering, a map with terrain information, elevation contours, and a set or sequence of locations to visit ("controls") are given. There is a combination of athletic skills and planning skills required to succeed - a smarter competitor who can figure out the best way to get from point to point may beat out a more athletic competitor who makes poor choices! Determine the best path for you to take depending on your ability.
